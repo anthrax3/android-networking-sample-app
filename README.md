@@ -2,7 +2,7 @@
 
 Working sample code for a simple app demonstrating core networking in Android. Key topics covered:
 
- * UrlHttpConnection
+ * HttpURLConnection
  * AsyncTask
  * JSONObject
  * SharedPreferences
